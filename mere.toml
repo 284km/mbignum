@@ -1,0 +1,4 @@
+[package]
+name = "mbignum"
+path = "github.com/284km/mbignum"
+version = "0.1.0"

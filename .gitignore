@@ -1,0 +1,5 @@
+mbignum
+*.o
+*.c
+.mere_modules/
+mere.lock
